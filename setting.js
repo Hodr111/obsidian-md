@@ -1,10 +1,10 @@
 //===== Obsidian md====
 
 module.exports = {
-  BOT_NAME: 'ᴏʙsɪᴅɪᴀɴ ᴍᴅ', // ur bot name
-  OWNER_NAME: 'ᴛʜᴇ sᴛɪᴀɴ', //your name
-  OWNER_NUMBER: '', // add your phone number
-  SESSION_ID: '', // use sessin id if inbuilt pairing not working
-  MODE: "public", // public or private
-  TIMEZONE: 'Africa/Harare', // ur timezone
+  BOT_NAME: 'O`botk1zZz',
+  OWNER_NAME: 'O`botk1zZz',
+  OWNER_NUMBER: '56967135082',
+  SESSION_ID: '',
+  MODE: 'public',
+  TIMEZONE: 'America/Bahia',
 };
